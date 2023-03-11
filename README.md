@@ -1,13 +1,28 @@
-# lokl
+# PortaPress / InstaPress
 
-Instant WordPress local development for Mac, Win & Linux
+##### formerly lokl, so if you see that, pay respects to the code-befores and the pre-alpha codebase artifacts.
+
+## Instant WordPress local development for Mac, Win & Linux
+
+Development fell off, it looks like 2 years have passed. It's time to make this thing live again. 🙏Thank you SO for the valuable development already done @WP2Static/lokl
+
+Truly, We can only hope to improve upon the heaping pile of PHP bandaids that is WordPress. I cannot fault Matt. Good work was done. Homage to Jazz artists, we dig! In the spirit of contribution and community, this thing should also be free.  We only enforce that code is signed by a communally trusted developers key.
+
+##### Anyhow, run your plugins in a container, not on the internet. 
+
+Resize your images locally. Add what you need. 
+We hope to make it a smart site for you to build from quickly.
+A sort of back of the napkin stuck to your shoe idea. 
+Thank G-d, too. 
+
+We thought we had lost that brill barnote start-up pre-seed idea.
+
 
 ## Getting Started
 
 These instructions will cover usage information and for the docker container
 
-### Prerequisities
-
+### Pre-Requisities
 
 In order to run this container you'll need docker installed.
 
